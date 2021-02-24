@@ -5,6 +5,7 @@
 
 ul.b {
 	list-style-type: square;
+	z-index: 1;
 }
 
 .dropbtn {
