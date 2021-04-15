@@ -13,6 +13,7 @@ ul.b {
   padding: 16px;
   font-size: 15px;
   border: none;
+  border-radius: 20px;
 }
 
 .dropdown {
